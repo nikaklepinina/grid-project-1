@@ -55,7 +55,7 @@ h2 {
 }
 .dummy {
     grid-area: dummy;
-    background-image: url(/img/Rectangle_3.png);
+    background-image: url(img/Rectangle_3.png);
     background-size: cover;
     color: white;
 }
