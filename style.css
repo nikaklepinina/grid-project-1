@@ -26,7 +26,7 @@ h2 {
     margin-bottom: 10%;
 }
 .coverImage {
-    background-image: url(/img/Rectangle_1.png);
+    background-image: url(img/Rectangle_1.png);
     background-size: cover;
 }
 .one>article {
@@ -43,19 +43,19 @@ h2 {
 }
 .services {
     grid-area: services;
-    background-image: url(/img/blue_rectangle.png);
+    background-image: url(img/blue_rectangle.png);
     background-size: cover;
     color: #ffffff;
 }
 .start {
     grid-area: start;
-    background-image: url(/img/Rectangle_2.png);
+    background-image: url(img/Rectangle_2.png);
     background-size: cover;
     color: #262f32;
 }
 .dummy {
     grid-area: dummy;
-    background-image: url(/img/Rectangle_3.png);
+    background-image: url(img/Rectangle_3.png);
     background-size: cover;
     color: white;
 }
@@ -86,7 +86,7 @@ h2 {
     }
     .designer {
         padding: 10%;
-        background-image: url(/img/Rectangle_4.png);
+        background-image: url(img/Rectangle_4.png);
         background-size: cover;
         color: #ffffff;
     }
